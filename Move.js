@@ -1,3 +1,17 @@
+	/*Agregar la siguiente clase en css:
+	
+	.move-float-container,
+	.move-float-container *{
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+	*/
+
+
 function Move( _this, a ){
 		var d = {
 			'parentsClass': '',
